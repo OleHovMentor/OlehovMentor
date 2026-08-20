@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.5 seconds
-Output:
 # Hi, I'm Oleg Posokhov
 
 ## AI Automation Engineer building useful systems with AI
@@ -45,4 +42,3 @@ If you have a repetitive process, a fragile workflow, or an AI product idea, [op
 I publish real tools, document what works, and invite developers to test them. Feedback, bug reports, use cases, and collaboration are welcome.
 
 ![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleHovMentor&show_icons=true&theme=dark&hide_border=true)
-
